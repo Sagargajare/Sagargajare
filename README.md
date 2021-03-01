@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar(Swagger)</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Backend developer from Pune India</h3>
 
 - 🔭 I’m currently doing **freelancing**
 
