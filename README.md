@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **Django and flask**
+- 💬 Ask me about **Django , Flask ,Webscraping and Website Development **
 
 - 📫 How to reach me **sggajare360@gmail.com**
 
