@@ -12,7 +12,7 @@
 - 💬 Ask me about **Django , Flask ,Webscraping and Website Development**
 
 - 📫 How to reach me **sggajare360@gmail.com**
-- 
+
 - 👨‍💻 Visit my personal website [**sagargajare.in**](http://sagargajare.in/ "Portfolio")
 
 <h3 align="left">Languages and Tools:</h3>
