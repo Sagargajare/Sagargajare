@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sagar(Swagger)</h1>
+<h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">A passionate FullStack developer from Pune India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagargajare&label=Profile%20views&color=0e75b6&style=flat" alt="sagargajare" /> </p>
