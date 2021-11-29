@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Ethereum Blockchain**
 
-- 💬 Ask me about **Django , Flask ,Webscraping and Website Development**
+- 💬 Ask me about **Reactjs , Django , Flask , Webscraping and Website Development**
 
 - 📫 How to reach me **sggajare360@gmail.com**
 
