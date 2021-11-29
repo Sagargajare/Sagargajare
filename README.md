@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently doing **freelancing**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Ethereum Blockchain**
 
 - 💬 Ask me about **Django , Flask ,Webscraping and Website Development**
 
