@@ -1,25 +1,85 @@
-<h1 align="center">Hi 👋, I'm Sagar</h1>
-<h3 align="center">A passionate FullStack developer from Pune India</h3>
+[![Sagar's GitHub Banner](./assets/GitHubHeader.png)](https://sagargajare.in)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagargajare&label=Profile%20views&color=0e75b6&style=flat" alt="sagargajare" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sagargajare&label=Profile%20views&color=0e75b6&style=flat" alt="sagargajare" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagargajare" alt="sagargajare" /></a> </p>
+
+[![Twitter: SagarGajare20](https://img.shields.io/twitter/follow/SagarGajare20?style=social)](https://twitter.com/SagarGajare20)
+[![Linkedin: sagar-gajare](https://img.shields.io/badge/-Sagargajare-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagar-gajare/)](https://www.linkedin.com/in/sagar-gajare/)
+[![GitHub Sagargajare](https://img.shields.io/github/followers/Sagargajare?label=follow&style=social)](https://github.com/Sagargajare)
+
+Hey there 👋
+
+I’m Sagar,
+
 
 - 🔭 I’m currently doing **freelancing**
 
 - 🌱 I’m currently learning **Ethereum Blockchain**
 
-- 💬 Ask me about **Reactjs , Django , Flask , Webscraping and Website Development**
+- 💬 Ask me about **Reactjs , MERN Stack, Django , Flask , Webscraping and Website Development**
 
 - 📫 How to reach me **sggajare360@gmail.com**
 
 - 👨‍💻 Visit my personal website [**sagargajare.in**](http://sagargajare.in/ "Portfolio")
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagargajare&show_icons=true&locale=en&layout=compact" alt="sagargajare" /></p>
+Want to know more about me? [Check out my portfolio.](https://sagargajare.in/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagargajare&show_icons=true&locale=en" alt="sagargajare" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagargajare&" alt="sagargajare" /></p>
+<br>
+
+<!-- BLOG-POST-LIST:START -->
+
+
+<br>
+
+## 📌 Pinned Repositories
+
+<br>
+
+<a href="https://github.com/saifabusaleh/clipboard-history-extension">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saifabusaleh&repo=clipboard-history-extension&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/Sagargajare/myportfolio">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagargajare&repo=myportfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/Sagargajare/HINGLISH-ANUVAAD">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagargajare&repo=HINGLISH-ANUVAAD&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/Sagargajare/certificate-generator-dbms">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagargajare&repo=certificate-generator-dbms&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/sagargajare">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagargajare&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/sagargajare">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sagargajare&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a>
+
+<br>
+<br>
+<a href="https://github.com/sagargajare">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=sagargajare" alt="Martin's GitHub Stats" />
+</a>
+
