@@ -2,10 +2,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sagargajare&label=Profile%20views&color=0e75b6&style=flat" alt="sagargajare" /> </p>
 
+<div align="center">
 
 [![Twitter: SagarGajare20](https://img.shields.io/twitter/follow/SagarGajare20?style=social)](https://twitter.com/SagarGajare20)
 [![Linkedin: sagar-gajare](https://img.shields.io/badge/-Sagargajare-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagar-gajare/)](https://www.linkedin.com/in/sagar-gajare/)
 [![GitHub Sagargajare](https://img.shields.io/github/followers/Sagargajare?label=follow&style=social)](https://github.com/Sagargajare)
+
+</div>
 
 Hey there 👋
 
@@ -31,7 +34,7 @@ Want to know more about me? [Check out my portfolio.](https://sagargajare.in/)
 
 <!-- BLOG-POST-LIST:START -->
 
-
+<div align="center">
 <br>
 
 ## 📌 Pinned Repositories
@@ -66,6 +69,9 @@ Want to know more about me? [Check out my portfolio.](https://sagargajare.in/)
 </a>
 <br>
 <br>
+</div>
+
+<div align="center">
 
 ## &#x1f4c8; GitHub Stats
 
@@ -77,13 +83,16 @@ Want to know more about me? [Check out my portfolio.](https://sagargajare.in/)
 
 <br>
 
-<a href="https://github.com/sagargajare">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sagargajare&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sagargajare&show_icons=true&theme=tokyonight" />  &emsp;   
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sagargajare&show_icons=true&theme=tokyonight" />
+     <p/>
+<hr>
 
-<br>
-<br>
-<a href="https://github.com/sagargajare">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=sagargajare" alt="Martin's GitHub Stats" />
-</a>
+## Contribution Graph 📊
 
+<img
+     src="https://activity-graph.herokuapp.com/graph?username=sagargajare&theme=chartreuse-dark"
+     />
+
+</div>
