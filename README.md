@@ -45,25 +45,25 @@ Want to know more about me? [Check out my portfolio.](https://sagargajare.in/)
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saifabusaleh&repo=clipboard-history-extension&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
+<hr>
 
 <a href="https://github.com/Sagargajare/myportfolio">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagargajare&repo=myportfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
+<hr>
 
 <a href="https://github.com/Sagargajare/HINGLISH-ANUVAAD">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagargajare&repo=HINGLISH-ANUVAAD&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
+<hr>
 
 <a href="https://github.com/Sagargajare/certificate-generator-dbms">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagargajare&repo=certificate-generator-dbms&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
+<hr>
 <a href="https://github.com/Sagargajare/sanchit">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagargajare&repo=sanchit&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -81,7 +81,7 @@ Want to know more about me? [Check out my portfolio.](https://sagargajare.in/)
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagargajare&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
+<hr>
 
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sagargajare&show_icons=true&theme=tokyonight" />  &emsp;   
