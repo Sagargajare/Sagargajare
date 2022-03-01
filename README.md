@@ -32,7 +32,6 @@ Want to know more about me? [Check out my portfolio.](https://sagargajare.in/)
 
 <br>
 
-<!-- BLOG-POST-LIST:START -->
 
 <div align="center">
 <br>
