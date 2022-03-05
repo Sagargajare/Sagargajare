@@ -19,7 +19,7 @@ I’m Sagar,
 
 - 🌱 I’m currently learning **Ethereum Blockchain**
 
-- 💬 Ask me about **Reactjs, Nextjs, MERN Stack, Django , Flask , Webscraping and Website Development**
+- 💬 Ask me about **Reactjs, Nextjs, MERN Stack, Django, Flask, Webscraping, and Website Development**
 
 - 📫 How to reach me **sggajare360@gmail.com**
 
