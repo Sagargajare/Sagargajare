@@ -10,6 +10,7 @@
 
 </div>
 
+
 Hey there 👋
 
 I’m Sagar,
@@ -28,6 +29,8 @@ I’m Sagar,
 <br>
 
 Want to know more about me? [Check out my portfolio.](https://sagargajare.in/)
+
+<a href="https://drive.google.com/file/d/1QbOrh6FwyvRCEho5HptRzz7VOkkSPPnd/view?ths=true">Resume</a>
 
 
 <br>
