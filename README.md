@@ -47,40 +47,7 @@ Want to know more about me? [Check out my portfolio.](https://sagargajare.in/)
 | Clipboard History Chrome Extension  	|  An extension to save history of copied text in Chrome browser 	| [Repo](https://github.com/saifabusaleh/clipboard-history-extension)  	|  [ChromeStore](https://chrome.google.com/webstore/detail/clipboard-history/mhokbaagmjlbflncohdhinppihlojpco?hl=en&authuser=0) 	| [PR](https://github.com/saifabusaleh/clipboard-history-extension/pull/20)   |  <img src="https://img.shields.io/github/stars/saifabusaleh/clipboard-history-extension?style=social" alt="sagargajare"  width="200" /> |
 |  Anchor Test UI |  Web Application which allows you to enter your anchor program's IDL and the application create's a GUI for interacting with it.   | [Repo](https://github.com/0xPratik/anchor-ui)   | [Website](http://anchor-ui.vercel.app/)  | Hard Pushed(Check README)  |   <img src="https://img.shields.io/github/stars/0xPratik/anchor-ui?style=social"  width="200" alt="sagargajare" /> |
   
-  
-## 📌 Pinned Repositories
 
-<br>
-
-<a href="https://github.com/saifabusaleh/clipboard-history-extension">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saifabusaleh&repo=clipboard-history-extension&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<hr>
-
-<a href="https://github.com/Sagargajare/myportfolio">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagargajare&repo=myportfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<hr>
-
-<a href="https://github.com/Sagargajare/HINGLISH-ANUVAAD">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagargajare&repo=HINGLISH-ANUVAAD&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<hr>
-
-<a href="https://github.com/Sagargajare/certificate-generator-dbms">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagargajare&repo=certificate-generator-dbms&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<hr>
-<a href="https://github.com/Sagargajare/sanchit">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagargajare&repo=sanchit&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<br>
-<br>
-</div>
 
 <div align="center">
 
