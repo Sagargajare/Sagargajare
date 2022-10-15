@@ -1,4 +1,4 @@
-[![Sagar's GitHub Banner](./assets/GitHubHeader.png)](https://sagargajare.in)
+[![Sagar's GitHub Banner](./assets/GithubHeader2.png)](https://sagargajare.in)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sagargajare&label=Profile%20views&color=0e75b6&style=flat" alt="sagargajare" /> </p>
 
