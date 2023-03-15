@@ -20,7 +20,7 @@ I’m Sagar,
 
 - 🌱 I’m currently learning **Solana Blockchain**
 
-- 💬 Ask me about **Reactjs, Nextjs, MERN Stack, Django, Flask, Webscraping, and Website Development**
+- 💬 Ask me about **Reactjs, Nextjs, MERN Stack, Django, Flask, Webscraping, and Frontend Development**
 
 - 📫 How to reach me **sggajare360@gmail.com**
 
