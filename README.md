@@ -18,7 +18,7 @@ I’m Sagar,
 
 - 🔭 I’m currently doing **freelancing**
 
-- 🌱 I’m currently learning **Ethereum Blockchain**
+- 🌱 I’m currently learning **Solana Blockchain**
 
 - 💬 Ask me about **Reactjs, Nextjs, MERN Stack, Django, Flask, Webscraping, and Website Development**
 
@@ -26,11 +26,6 @@ I’m Sagar,
 
 - 👨‍💻 Visit my personal website [**sagargajare.in**](http://sagargajare.in/ "Portfolio")
 
-<br>
-
-Want to know more about me? [Check out my portfolio.](https://sagargajare.in/)
-
-<a href="https://drive.google.com/file/d/1QbOrh6FwyvRCEho5HptRzz7VOkkSPPnd/view?ths=true">Resume</a>
 
 
 <br>
@@ -42,11 +37,15 @@ Want to know more about me? [Check out my portfolio.](https://sagargajare.in/)
 ## Projects and OpenSource Contributions
   
   
-|  Name 	| Description  	| Source Code   	|   Deployed at	|   Pull Request  | Star |
-|---	|---	|---	|---	|---  |--- |
+|  Name  | Description   | Source Code    |   Deployed at |   Pull Request  | Star |
+|--- |--- |--- |--- |---  |--- |
    |  RayAuth |  Gasless transactions, signing transactions with the RayAuth wallet and session keys   | [Repo](https://github.com/AnishDe12020/rayauth)   | [Website](https://www.rayauth.com/)  |   |   <img src="https://img.shields.io/github/stars/AnishDe12020/rayauth?style=social"  width="200" alt="sagargajare" /> |
-| Clipboard History Chrome Extension  	|  An extension to save history of copied text in Chrome browser 	| [Repo](https://github.com/saifabusaleh/clipboard-history-extension)  	|  [ChromeStore](https://chrome.google.com/webstore/detail/clipboard-history/mhokbaagmjlbflncohdhinppihlojpco?hl=en&authuser=0) 	| [PR](https://github.com/saifabusaleh/clipboard-history-extension/pull/20)   |  <img src="https://img.shields.io/github/stars/saifabusaleh/clipboard-history-extension?style=social" alt="sagargajare"  width="200" /> |
+|  Rentii NFT |  NFT Rental Platform on Solana Blockchain   | | [Website](http://rentii.xyz/)  |   |   |
+|  Flaq CMS |  Content Management System built on Notion and Nextjs   | [Repo](https://github.com/AffableSarthak/flaq-learn-cms/)   | [Website](http://learn.flaq.club/)  |   |   <img src="https://img.shields.io/github/stars/AffableSarthak/flaq-learn-cms?style=social"  width="200" alt="sagargajare" /> |
+| Clipboard History Chrome Extension   |  An extension to save history of copied text in Chrome browser  | [Repo](https://github.com/saifabusaleh/clipboard-history-extension)   |  [ChromeStore](https://chrome.google.com/webstore/detail/clipboard-history/mhokbaagmjlbflncohdhinppihlojpco?hl=en&authuser=0)  | [PR](https://github.com/saifabusaleh/clipboard-history-extension/pull/20)   |  <img src="https://img.shields.io/github/stars/saifabusaleh/clipboard-history-extension?style=social" alt="sagargajare"  width="200" /> |
 |  Anchor Test UI |  Web Application which allows you to enter your anchor program's IDL and the application create's a GUI for interacting with it.   | [Repo](https://github.com/0xPratik/anchor-ui)   | [Website](http://anchor-ui.vercel.app/)  | Hard Pushed(Check README)  |   <img src="https://img.shields.io/github/stars/0xPratik/anchor-ui?style=social"  width="200" alt="sagargajare" /> |
+|  Superteam Reputation |  Reputation Dashboard for Superteam DAO  | [Repo](https://github.com/SuperteamDAO/superteam-reputation)   | [Website](https://reputation.superteam.fun/)  | [PR1](https://github.com/SuperteamDAO/superteam-reputation/pull/30) [PR2](https://github.com/SuperteamDAO/superteam-reputation/pull/24) [PR3](https://github.com/SuperteamDAO/superteam-reputation/pull/23) |   <img src="https://img.shields.io/github/stars/SuperteamDAO/superteam-reputation?style=social"  width="200" alt="sagargajare" /> |
+
  
   
 
@@ -69,10 +68,3 @@ Want to know more about me? [Check out my portfolio.](https://sagargajare.in/)
      <p/>
 <hr>
 
-## Contribution Graph 📊
-
-<img
-     src="https://activity-graph.herokuapp.com/graph?username=sagargajare&theme=chartreuse-dark"
-     />
-
-</div>
