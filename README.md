@@ -45,7 +45,7 @@ I’m Sagar,
 | Clipboard History Chrome Extension   |  An extension to save history of copied text in Chrome browser  | [Repo](https://github.com/saifabusaleh/clipboard-history-extension)   |  [ChromeStore](https://chrome.google.com/webstore/detail/clipboard-history/mhokbaagmjlbflncohdhinppihlojpco?hl=en&authuser=0)  | [PR](https://github.com/saifabusaleh/clipboard-history-extension/pull/20)   |  <img src="https://img.shields.io/github/stars/saifabusaleh/clipboard-history-extension?style=social" alt="sagargajare"  width="200" /> |
 |  Anchor Test UI |  Web Application which allows you to enter your anchor program's IDL and the application create's a GUI for interacting with it.   | [Repo](https://github.com/0xPratik/anchor-ui)   | [Website](http://anchor-ui.vercel.app/)  | Hard Pushed(Check README)  |   <img src="https://img.shields.io/github/stars/0xPratik/anchor-ui?style=social"  width="200" alt="sagargajare" /> |
 |  Superteam Reputation |  Reputation Dashboard for Superteam DAO  | [Repo](https://github.com/SuperteamDAO/superteam-reputation)   | [Website](https://reputation.superteam.fun/)  | [PR1](https://github.com/SuperteamDAO/superteam-reputation/pull/30) [PR2](https://github.com/SuperteamDAO/superteam-reputation/pull/24) [PR3](https://github.com/SuperteamDAO/superteam-reputation/pull/23) |   <img src="https://img.shields.io/github/stars/SuperteamDAO/superteam-reputation?style=social"  width="200" alt="sagargajare" /> |
-
+|StealthWallet | Add private transactions to Backpack wallet | [repo](https://github.com/Sagargajare/elusiv-xnft) |--- |---  |--- |
  
   
 
