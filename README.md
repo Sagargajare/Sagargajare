@@ -15,16 +15,11 @@ Hey there 👋
 
 I’m Sagar,
 
-
-- 🔭 I’m currently doing **freelancing**
-
-- 🌱 I’m currently learning **Solana Blockchain**
-
 - 💬 Ask me about **Reactjs, Nextjs, MERN Stack, Django, Flask, Webscraping, and Frontend Development**
 
 - 📫 How to reach me **sggajare360@gmail.com**
 
-- 👨‍💻 Visit my personal website [**sagargajare.in**](http://sagargajare.in/ "Portfolio")
+- 👨‍💻 Visit my website [**sagargajare.in**](http://sagargajare.in/ "Portfolio")
 
 
 
